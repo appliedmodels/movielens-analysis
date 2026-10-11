@@ -142,6 +142,10 @@ Each step reduces to a collection of regularised least-squares problems. The pro
 - PySpark and Apache Spark MLlib for distributed processing and model comparison
 - Databricks for the development environment and visualisation
 
+## Implementation
+There are two notebooks one for the Numpy implementation and one for the Spark implementation.
+The notebooks expects the MovieLens dataset to be available in a Databricks Volume, without including the data itself.
+
 ## Dataset and sources
 
 ### Dataset: Kaggle
