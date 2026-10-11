@@ -69,7 +69,7 @@ The convergence plot tracks the training objective over successive iterations. I
 
 ### Predicted versus actual ratings
 
-![Predicted versus actual ratings](images/als-predictions.png)
+![Predicted versus actual ratings](images/als-prediction-rating.png)
 
 Comparing predictions with observed ratings helps reveal the accuracy of the model and identify cases where predictions differ substantially from actual ratings.
 
