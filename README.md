@@ -125,6 +125,10 @@ where:
 - \(r_{ui}\) is an observed rating, and \(\hat{r}_{ui}\) is its prediction.
 - \(\lambda\) is a fixed regularisation parameter used throughout the optimisation. It controls the trade-off between fitting the observed ratings and keeping the latent-factor values small.
 
+- $\Omega$ is the set of observed user–movie ratings.
+- $r_{ui}$ is an observed rating, and $\hat{r}_{ui}$ is its prediction.
+- $\lambda$ is a fixed regularisation parameter used throughout the optimisation. It controls the trade-off between fitting the observed ratings and keeping the latent-factor values small.
+
 Only observed ratings contribute to the fitting error; unknown ratings are not treated as zero.
 
 ### Alternating optimisation
