@@ -63,7 +63,7 @@ The Databricks dashboard examines two aspects of the model.
 
 ### Convergence
 
-![ALS convergence plot](images/als-convergence.png)
+![ALS convergence plot](images/ALS-convergence.png)
 
 The convergence plot tracks the training objective over successive iterations. It helps assess whether the optimisation is progressing and approaching a stable solution.
 
