@@ -32,6 +32,8 @@ The comparison focuses on the mathematical formulation, the alternating factor u
 
 The purpose is to validate the implementation and understand its behaviour, rather than to benchmark execution speed. Distributed computing introduces overhead, and its benefits depend on the size of the dataset and the computational workload.
 
+The primary objective is to understand and validate the ALS algorithm, not to develop the best possible recommendation model. The focus is on the mathematical formulation, numerical implementation and model behaviour, rather than on maximising predictive accuracy through extensive hyperparameter tuning or model selection.
+
 ## Results
 
 The current implementation produces the following results.
